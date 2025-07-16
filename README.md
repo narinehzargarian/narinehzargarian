@@ -26,7 +26,7 @@ I'm a passionate developer with a strong foundation in computer science, current
 
 **Smart Scheduler for Students**  
 Building a smart scheduler web application to help students organize projects and courses. Leveraging Machine Learning to develop an algorithm that optimizes schedules based on workload and deadlines.  
-*Tech: React, Django, Python, Tailwind CSS, ML libraries*
+*Tech: React, Django, PostgreSQL, Python, Tailwind CSS, ML libraries*
 
 ---
 
