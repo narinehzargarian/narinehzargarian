@@ -1,10 +1,10 @@
 # Hi there, I'm Narineh 👋
 
-🎓 **CS Master's Student @ USC**  
-🦄 **Bruin for Life:** B.S. in Computer Science from UCLA  
-🌍 **Former Computer Engineering Major @ University of Isfahan, Iran**  
-💻 **Mobile & Web App Developer @ Annenberg Media**  
-💡 **Board Member @ ACM USC**
+**CS Master's Student @ USC**  
+**Bruin for Life:** B.S. in Computer Science from UCLA  
+**Former Computer Engineering Major @ University of Isfahan, Iran**  
+**Mobile & Web App Developer @ Annenberg Media**  
+**Board Member @ ACM USC**
 
 ---
 
