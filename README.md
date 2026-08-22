@@ -7,7 +7,7 @@ I'm a Master's student in Computer Science at USC (B.S. UCLA) focused on buildin
 ## What I've Been Working On
 
 **Adobe — Software Engineering Intern** *(Acrobat Web, Document Cloud)*
-- Self-initiated an AI-powered Document Outline feature for Acrobat Web, auto-generating section trees, summaries, and flagged action items — adopted by multiple teams after presenting to the org
+- Self-initiated an AI-powered Document Outline feature for Acrobat Web, auto-generating section trees, summaries, and flagged action items 
 - Built a production error-recovery framework and a Splunk analysis workflow that surfaced failure trends across 3.7M logs, isolating 52K user-facing errors
 
 **University of Virginia — AI/ML Research Assistant** *(Computational Plasma Physics)*
@@ -30,7 +30,7 @@ I'm a Master's student in Computer Science at USC (B.S. UCLA) focused on buildin
 
 ## Projects
 
-**[SchedWise](https://github.com/narinehzargarian)** — Full-stack academic scheduler with a constraint-based algorithm for workload balancing, built with React, Django, and PostgreSQL
+**SchedWise** — Full-stack academic scheduler with a constraint-based algorithm for workload balancing, built with React, Django, and PostgreSQL
 
 **Scalable Web Server** — Modular C++ RESTful server with multi-threading, deployed on GCP with Docker and CI/CD, sustaining 99% uptime under load
 
@@ -39,4 +39,3 @@ I'm a Master's student in Computer Science at USC (B.S. UCLA) focused on buildin
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-narineh--zargarian-blue?logo=linkedin)](https://www.linkedin.com/in/narineh-zargarian)
-[![Email](https://img.shields.io/badge/Email-narinehzargarian@gmail.com-red?logo=gmail)](mailto:narinehzargarian@gmail.com)
