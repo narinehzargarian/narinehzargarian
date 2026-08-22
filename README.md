@@ -1,60 +1,42 @@
-# Hi there, I'm Narineh 👋
+# Hi, I'm Narineh
 
-**CS Master's Student @ USC**  
-**Bruin for Life:** B.S. in Computer Science from UCLA  
-**Mobile & Web App Developer @ Annenberg Media**  
-**Board Member @ ACM USC**
+I'm a Master's student in Computer Science at USC (B.S. UCLA) focused on building production-quality software at the intersection of AI, full-stack engineering, and large-scale systems.
 
 ---
 
-## About Me
+## What I've Been Working On
 
-I'm a passionate developer with a strong foundation in computer science, currently exploring the intersection of mobile/web applications and AI. My academic journey began as a Computer Engineering major at the University of Isfahan, Iran, before transferring to UCLA for my bachelor's, and now pursuing a master's at USC. Whether I'm building tools for students, designing robust systems, or contributing to my campus tech community, I love solving meaningful problems with code.
+**Adobe — Software Engineering Intern** *(Acrobat Web, Document Cloud)*
+- Self-initiated an AI-powered Document Outline feature for Acrobat Web, auto-generating section trees, summaries, and flagged action items — adopted by multiple teams after presenting to the org
+- Built a production error-recovery framework and a Splunk analysis workflow that surfaced failure trends across 3.7M logs, isolating 52K user-facing errors
 
-### Languages & Technologies
-- Frontend: React, Angular, React Native
-- Backend: Node.js, Express.js, Flask, Django
-- Programming: Python, TypeScript, Kotlin, Java, JavaScript, C++
-- Databases: MongoDB, PostgreSQL, MySQL
-- Cloud & DevOps: Docker, GCP
-- Other: Matlab (for system design)
+**University of Virginia — AI/ML Research Assistant** *(Computational Plasma Physics)*
+- Built a Noise2Noise U-Net in PyTorch to denoise large-scale Particle-in-Cell simulation data with automated evaluation pipelines (MSE, SNR)
 
----
-
-## Current Project
-
-**Smart Scheduler for Students**  
-Building a smart scheduler web application to help students organize projects and courses. Leveraging Machine Learning to develop an algorithm that optimizes schedules based on workload and deadlines.  
-*Tech: React, Django, PostgreSQL, Python, Tailwind CSS, ML libraries*
+**Enke Systems — Full-Stack Developer Intern**
+- Built a scalable submission platform for Warner Music Group using AWS API Gateway, Lambda, S3, and CloudFront
 
 ---
 
-## What I'm Excited About
+## Tech Stack
 
-- Building projects using LLM APIs
-- Exploring new AI/ML applications in education and productivity
-- Creating scalable, user-friendly mobile/web experiences
-
----
-
-## Campus Involvement
-
-- ACM USC Board Member: Helping foster an inclusive tech community and organizing events for students.
-- CS@SC Volunteer: Mentoring and teaching K-12 students at summer camps.
+**Languages:** Python · C++ · Java · JavaScript · TypeScript · Kotlin  
+**Web/Mobile:** React · React Native · Node.js · Django · REST APIs  
+**Cloud & DevOps:** AWS · GCP · Docker · CI/CD · Git  
+**AI/ML:** PyTorch · Scikit-learn · NLP · Generative AI · Agentic Coding  
+**Tools:** Splunk · Jira · Confluence
 
 ---
 
-## Hobbies & Fun Facts
+## Projects
 
-- Running & strength training
-- Always up for a challenge—whether it's a hackathon or a half-marathon!
+**[SchedWise](https://github.com/narinehzargarian)** — Full-stack academic scheduler with a constraint-based algorithm for workload balancing, built with React, Django, and PostgreSQL
 
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/narineh-zargarian)
+**Scalable Web Server** — Modular C++ RESTful server with multi-threading, deployed on GCP with Docker and CI/CD, sustaining 99% uptime under load
 
 ---
 
-_Thanks for visiting! Feel free to reach out if you'd like to connect, collaborate, or chat about cool tech ideas._
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-narineh--zargarian-blue?logo=linkedin)](https://www.linkedin.com/in/narineh-zargarian)
+[![Email](https://img.shields.io/badge/Email-narinehzargarian@gmail.com-red?logo=gmail)](mailto:narinehzargarian@gmail.com)
